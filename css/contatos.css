@@ -1,0 +1,43 @@
+html {
+    font-size: 81%;
+  }
+  
+  .contatos {
+    width: 100%;
+    background-color: #1f1e1f;
+    display: flex;
+    flex-direction: column;
+    justify-content: Center;
+    align-items: center;
+    font-size: 1.8rem;
+    color: white;
+    padding-bottom: 4rem;
+  }
+  
+  .contatos h3 {
+    font-size: 6rem;
+    margin-bottom: 3rem;
+    font-family: "Indie Flower", cursive;
+  }
+  
+  .contatos-secao {
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 2rem;
+  }
+  
+  .contatos-secao i {
+    margin-right: 1rem;
+  }
+  
+  footer {
+    height: 25px;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-size: 1.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
